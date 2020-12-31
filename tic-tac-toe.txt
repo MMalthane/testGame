@@ -1,4 +1,4 @@
-// Steps followed for the Project - Tix-Tac-toe
+// Steps followed for the Project - Tic-Tac-toe
 -----------------------------------------------
 1. Setup React App
 2. Create Componenets
