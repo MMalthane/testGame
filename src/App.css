@@ -1,0 +1,47 @@
+#board{
+  margin: auto;
+  width: 300px;
+}
+
+
+.header, .content, h1{
+  width: 100%;
+    text-align: center;
+    margin: auto;
+    padding: 20px 20px;
+}
+
+h1{
+  background-color: #bed7d8;
+  border-radius: 10px;
+}
+
+button{
+  border-radius: 10px;
+    width: 25%;
+    padding: 5px 0px;
+    background-color: #403f36;
+    color: aliceblue;
+}
+
+.summary{
+  width: 100%;
+    margin: auto;
+    padding: 20px 20px;
+}
+
+@media (max-width: 575.98px) {
+  #board{
+      width:280px;
+
+    
+  }
+  .cell{
+    width: 85px;
+    height: 85px;
+  }
+  button{
+    width: 100%;
+  }
+ }
+

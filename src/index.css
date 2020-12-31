@@ -1,0 +1,30 @@
+.cell{
+  border:2px solid #5e8282;
+  width:100px;
+  height:100px;
+}
+
+.cell:hover{
+  background-color: lightgrey;
+  cursor:pointer;
+}
+
+.disabled{
+  cursor:not-allowed;
+}
+.disabled:hover{
+  background-color: grey;
+}
+
+.symbol{
+  line-height:100px;
+  font-weight:bold;
+  font-size:32px;
+
+}
+
+.cross{
+  line-height:100px;
+  font-weight:bold;
+  font-size:32px;
+}
